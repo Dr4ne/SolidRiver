@@ -1,0 +1,912 @@
+﻿Log file open, 01/29/21 14:06:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SolidRiver
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.130481
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Dr4ne -epicuserid=6cabc0b88c7c478a9137274b125ceb45 -epiclocale=en
+LogInit: Base Directory: G:/Softwares/Epic/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.29-13.06.21:882][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.29-13.06.21:882][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.29-13.06.21:882][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Engine.ini]
+[2021.01.29-13.06.21:882][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.29-13.06.21:882][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Engine.ini]
+[2021.01.29-13.06.21:882][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Engine.ini]
+[2021.01.29-13.06.21:882][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.29-13.06.21:882][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.29-13.06.21:882][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Engine.ini]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.29-13.06.21:883][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Engine.ini]
+[2021.01.29-13.06.21:883][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Engine.ini]
+[2021.01.29-13.06.21:891][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:891][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.29-13.06.21:891][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.29-13.06.21:891][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:891][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.29-13.06.21:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.29-13.06.21:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.29-13.06.21:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.29-13.06.21:892][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.29-13.06.21:893][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:893][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.29-13.06.21:894][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:895][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.29-13.06.21:895][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.29-13.06.21:895][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.29-13.06.21:895][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.29-13.06.21:895][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.29-13.06.21:898][  0]LogHAL: Display: Platform has ~ 16 GB [17125994496 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.29-13.06.21:898][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.29-13.06.21:898][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.29-13.06.21:898][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.29-13.06.21:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.29-13.06.21:900][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:2]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Scalability.ini]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.29-13.06.21:901][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.29-13.06.21:902][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.29-13.06.21:902][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.29-13.06.21:902][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Projects/02 - Misc/SolidRiver/Saved/Config/Windows/Engine.ini]
+[2021.01.29-13.06.21:902][  0]LogInit: Computer: DESKTOP-TKMSNHN
+[2021.01.29-13.06.21:902][  0]LogInit: User: Drane
+[2021.01.29-13.06.21:902][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.29-13.06.21:902][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.29-13.06.21:902][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.29-13.06.21:902][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.29-13.06.21:902][  0]LogMemory: Process Physical Memory: 108.94 MB used, 108.95 MB peak
+[2021.01.29-13.06.21:902][  0]LogMemory: Process Virtual Memory: 101.79 MB used, 101.79 MB peak
+[2021.01.29-13.06.21:902][  0]LogMemory: Physical Memory: 6775.72 MB used,  9556.90 MB free, 16332.62 MB total
+[2021.01.29-13.06.21:902][  0]LogMemory: Virtual Memory: 5106.35 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2021.01.29-13.06.21:906][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.29-13.06.21:973][  0]LogInit: Using OS detected language (fr-FR).
+[2021.01.29-13.06.21:973][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.01.29-13.06.21:974][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.01.29-13.06.21:975][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.01.29-13.06.21:975][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.01.29-13.06.21:975][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.01.29-13.06.21:975][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.01.29-13.06.21:975][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.01.29-13.06.21:975][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.01.29-13.06.21:976][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.01.29-13.06.21:977][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.29-13.06.22:029][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.29-13.06.22:029][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.29-13.06.22:273][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.29-13.06.22:273][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.29-13.06.22:274][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.29-13.06.22:274][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.29-13.06.22:391][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2021.01.29-13.06.22:391][  0]LogD3D11RHI:       4043/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.29-13.06.22:395][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.29-13.06.22:395][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.29-13.06.22:395][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.29-13.06.22:401][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.29-13.06.22:401][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.29-13.06.22:401][  0]LogWindows: EnumDisplayDevices:
+[2021.01.29-13.06.22:401][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2021.01.29-13.06.22:402][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2021.01.29-13.06.22:403][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.01.29-13.06.22:403][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.01.29-13.06.22:404][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.29-13.06.22:404][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2021.01.29-13.06.22:404][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.01.29-13.06.22:404][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.01.29-13.06.22:404][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2021.01.29-13.06.22:486][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.29-13.06.22:486][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.29-13.06.22:504][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.29-13.06.22:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.29-13.06.22:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.29-13.06.22:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.29-13.06.22:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.29-13.06.23:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.29-13.06.23:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.29-13.06.23:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.29-13.06.23:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.29-13.06.23:031][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.29-13.06.23:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.29-13.06.23:048][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.29-13.06.23:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.29-13.06.23:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.29-13.06.23:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.29-13.06.23:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.29-13.06.23:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.29-13.06.23:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.29-13.06.23:117][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.29-13.06.23:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.29-13.06.23:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.29-13.06.23:136][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.29-13.06.23:142][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.29-13.06.23:180][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Projects/02 - Misc/SolidRiver/Intermediate/Shaders/WorkingDirectory/2372/).
+[2021.01.29-13.06.23:181][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Drane/AppData/Local/Temp/UnrealShaderWorkingDir/97EABB624AD70719F36E9FA932580534/'.
+[2021.01.29-13.06.23:181][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.29-13.06.23:181][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.29-13.06.23:181][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.29-13.06.23:910][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.29-13.06.24:001][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/Drane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.29-13.06.24:001][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Drane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2021.01.29-13.06.24:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projects/02 - Misc/SolidRiver/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.29-13.06.24:001][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.29-13.06.24:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projects/02 - Misc/SolidRiver/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.29-13.06.24:002][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.29-13.06.24:011][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.29-13.06.24:011][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.29-13.06.24:011][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.29-13.06.24:013][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Drane/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.29-13.06.24:013][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.29-13.06.24:013][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.29-13.06.24:037][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.29-13.06.24:040][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.29-13.06.24:040][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.29-13.06.24:108][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.01.29-13.06.24:424][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.29-13.06.24:580][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.29-13.06.24:580][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.29-13.06.24:580][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.29-13.06.24:580][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.29-13.06.24:580][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.29-13.06.24:596][  0]LogNetVersion: SolidRiver 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1102370758)
+[2021.01.29-13.06.25:798][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042399 seconds
+[2021.01.29-13.06.25:805][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2021.01.29-13.06.25:805][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2021.01.29-13.06.25:805][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.29-13.06.26:219][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.29-13.06.26:222][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.29-13.06.26:275][  0]SourceControl: Source control is disabled
+[2021.01.29-13.06.26:275][  0]SourceControl: Source control is disabled
+[2021.01.29-13.06.26:277][  0]SourceControl: Source control is disabled
+[2021.01.29-13.06.26:278][  0]SourceControl: Source control is disabled
+[2021.01.29-13.06.26:279][  0]SourceControl: Source control is disabled
+[2021.01.29-13.06.26:381][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.29-13.06.26:392][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.29-13.06.26:392][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.29-13.06.26:483][  0]LogOcInput: OculusInput pre-init called
+[2021.01.29-13.06.26:500][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.29-13.06.26:500][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.29-13.06.26:565][  0]LogEngine: Initializing Engine...
+[2021.01.29-13.06.26:566][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.29-13.06.26:567][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.29-13.06.26:909][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.29-13.06.26:927][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.29-13.06.26:942][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-13.06.26:942][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-13.06.26:942][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-13.06.26:942][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-13.06.26:942][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-13.06.26:942][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-13.06.26:942][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-13.06.26:942][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-13.06.26:943][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-13.06.26:943][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-13.06.26:995][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.29-13.06.26:996][  0]LogAudioMixer: Display: Name: Haut-parleurs (USB AUDIO  CODEC)
+[2021.01.29-13.06.26:996][  0]LogAudioMixer: Display: Is Default: Yes
+[2021.01.29-13.06.26:996][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.29-13.06.26:996][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.29-13.06.26:996][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.29-13.06.26:996][  0]LogAudioMixer: Display: Channel Order:
+[2021.01.29-13.06.26:996][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-13.06.26:996][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-13.06.27:027][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (USB AUDIO  CODEC)
+[2021.01.29-13.06.27:038][  0]LogInit: FAudioDevice initialized.
+[2021.01.29-13.06.27:038][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.29-13.06.27:238][  0]LogDerivedDataCache: Saved boot cache 0.20s 78MB C:/Users/Drane/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2021.01.29-13.06.27:239][  0]LogInit: Texture streaming: Enabled
+[2021.01.29-13.06.27:289][  0]LogInit: Transaction tracking system initialized
+[2021.01.29-13.06.27:300][  0]BlueprintLog: New page: Editor Load
+[2021.01.29-13.06.27:333][  0]LocalizationService: Localization service is disabled
+[2021.01.29-13.06.27:637][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/02 - Misc/SolidRiver/Content/' took 0.00s
+[2021.01.29-13.06.27:637][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.29-13.06.27:637][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.29-13.06.28:518][  0]SourceControl: Source control is disabled
+[2021.01.29-13.06.28:518][  0]Cmd: MAP LOAD FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-13.06.28:519][  0]LightingResults: New page: Lighting Build
+[2021.01.29-13.06.28:519][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-13.06.28:519][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-13.06.28:519][  0]MapCheck: New page: Map Check
+[2021.01.29-13.06.28:519][  0]LightingResults: New page: Lighting Build
+[2021.01.29-13.06.28:543][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.29-13.06.28:823][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.29-13.06.28:836][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.29-13.06.28:872][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.01.29-13.06.28:873][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-13.06.28:873][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,175ms to complete.
+[2021.01.29-13.06.28:873][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.355
+[2021.01.29-13.06.29:037][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-13.06.29:043][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-13.06.29:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-13.06.29:056][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-13.06.29:062][  0]LogCollectionManager: Loaded 0 collections in 0.002913 seconds
+[2021.01.29-13.06.29:074][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/02 - Misc/SolidRiver/Saved/Collections/' took 0.00s
+[2021.01.29-13.06.29:074][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/02 - Misc/SolidRiver/Content/Developers/Drane/Collections/' took 0.00s
+[2021.01.29-13.06.29:074][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/02 - Misc/SolidRiver/Content/Collections/' took 0.00s
+[2021.01.29-13.06.29:074][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 3017 classes and 720 folders.
+[2021.01.29-13.06.29:076][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.29-13.06.29:168][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2021.01.29-13.06.29:495][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.29-13.06.29:500][  0]LogSlate: Took 0.000707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.29-13.06.29:502][  0]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.29-13.06.29:553][  0]LogRenderer: Reallocating scene render targets to support 1020x640 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-13.06.29:641][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.29-13.06.29:641][  0]LogLoad: (Engine Initialization) Total time: 10.12 seconds
+[2021.01.29-13.06.29:641][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.29-13.06.29:697][  0]LogAssetRegistry: Asset discovery search completed in 5.5890 seconds
+[2021.01.29-13.06.29:700][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.01.29-13.06.29:701][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.01.29-13.06.29:728][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-13.07.09:710][659]LogSlate: Window 'Message Log' being destroyed
+[2021.01.29-13.07.09:734][659]LogSlate: Window 'Message Log' being destroyed
+[2021.01.29-13.07.37:878][330]LogStaticMesh: Building static mesh door_door...
+[2021.01.29-13.07.37:895][330]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-13.07.37:929][330]LogStaticMesh: Built static mesh [0.05s] /Game/ThirdPersonBP/Maps/door_door.door_door
+[2021.01.29-13.07.40:168][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_Custom/door_2_ways_door_2w" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w.uasset" SILENT=true
+[2021.01.29-13.07.40:181][440]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2wE9105E754758A3E764E2F687376F5D60.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w.uasset'
+[2021.01.29-13.07.40:184][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/door_2_ways_door_2w" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/door_2_ways_door_2w.uasset" SILENT=true
+[2021.01.29-13.07.40:194][440]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w0A92551946DBAB909AA29583147D97EF.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/door_2_ways_door_2w.uasset'
+[2021.01.29-13.07.40:209][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_Custom/door_2_ways_door_2w_frame" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w_frame.uasset" SILENT=true
+[2021.01.29-13.07.40:221][440]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_frame3253ABD84C45A96E24B7FEB76552F61C.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w_frame.uasset'
+[2021.01.29-13.07.40:235][440]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_frame6336596B41A9BE98D66452AC1E56830B.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/door_2_ways_door_2w_frame.uasset'
+[2021.01.29-13.07.40:250][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_Custom/door_door" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_door.uasset" SILENT=true
+[2021.01.29-13.07.40:262][440]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_door55BDCA2244B4348264FB13AF36C0CBCD.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_door.uasset'
+[2021.01.29-13.07.40:278][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_Custom/door_door_frame" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_door_frame.uasset" SILENT=true
+[2021.01.29-13.07.40:290][440]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_door_frame8A6D12344728F6F1E6897DADDEC225D9.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_door_frame.uasset'
+[2021.01.29-13.07.40:470][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.01.29-13.07.40:490][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.29-13.07.40:519][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.01.29-13.07.40:539][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.29-13.07.40:592][440]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.07.40:592][440]LogContentValidation: Display: Validating StaticMesh /Game/Assets_Custom/door_2_ways_door_2w.door_2_ways_door_2w
+[2021.01.29-13.07.40:593][440]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Maps/door_2_ways_door_2w.door_2_ways_door_2w
+[2021.01.29-13.07.40:593][440]LogContentValidation: Display: Validating StaticMesh /Game/Assets_Custom/door_2_ways_door_2w_frame.door_2_ways_door_2w_frame
+[2021.01.29-13.07.40:593][440]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Maps/door_2_ways_door_2w_frame.door_2_ways_door_2w_frame
+[2021.01.29-13.07.40:593][440]LogContentValidation: Display: Validating StaticMesh /Game/Assets_Custom/door_door.door_door
+[2021.01.29-13.07.40:593][440]LogContentValidation: Display: Validating StaticMesh /Game/Assets_Custom/door_door_frame.door_door_frame
+[2021.01.29-13.07.49:611][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.01.29-13.07.49:773][976]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/ThirdPersonExampleMap02919FCC48EAB6ECDEBB09867E593544.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.29-13.07.49:916][976]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/ThirdPersonExampleMap_BuiltDataD54DCB164545D1C815F14A88BB822D5E.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.29-13.07.49:931][976]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.07.49:931][976]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.29-13.07.49:931][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.29-13.07.55:879][335]LogSlate: Took 0.002818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.01.29-13.08.08:499][ 84]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequence/dor_trigger.dor_trigger
+[2021.01.29-13.08.11:344][252]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.29-13.10.39:569][959]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.10.39:572][959]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.10.51:480][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/door_trigger" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Sequence/door_trigger.uasset" SILENT=true
+[2021.01.29-13.10.51:485][671]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_triggerB5AE95CD4FFEF3D81B0EA6866389C001.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Sequence/door_trigger.uasset'
+[2021.01.29-13.10.51:487][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/dor_trigger" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Sequence/dor_trigger.uasset" SILENT=true
+[2021.01.29-13.10.51:498][671]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/dor_trigger2F43A50C4E059EFD66D50B8A1A33A1D9.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Sequence/dor_trigger.uasset'
+[2021.01.29-13.10.51:592][671]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.10.51:593][671]LogContentValidation: Display: Validating LevelSequence /Game/Sequence/door_trigger.door_trigger
+[2021.01.29-13.10.51:593][671]LogContentValidation: Display: Validating ObjectRedirector /Game/Sequence/dor_trigger.dor_trigger
+[2021.01.29-13.10.55:990][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.01.29-13.10.56:168][933]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/ThirdPersonExampleMap44D7A5E44B8D1EE567CD7AB48DE8123A.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.29-13.10.56:274][933]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/ThirdPersonExampleMap_BuiltData67A0114843E13B77DA22DB83FE6C1069.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.29-13.10.56:289][933]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.10.56:289][933]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.29-13.10.56:289][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.29-13.11.05:179][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Assets_Custom/door_2_ways_door_2w" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets_Custom/door_2_ways_door_2w.uasset" SILENT=true
+[2021.01.29-13.11.05:191][460]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w4EEA5F2B41831CACA6613CB54418582A.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets_Custom/door_2_ways_door_2w.uasset'
+[2021.01.29-13.11.05:194][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_Custom/door_2_ways_door_2w" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w.uasset" SILENT=true
+[2021.01.29-13.11.05:203][460]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2wF821256648E742FEDE3041A07BB49F3B.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w.uasset'
+[2021.01.29-13.11.05:218][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Assets_Custom/door_2_ways_door_2w_frame" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets_Custom/door_2_ways_door_2w_frame.uasset" SILENT=true
+[2021.01.29-13.11.05:230][460]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_frameFA9B765B4F30E6A42D915689BC77D9D3.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets_Custom/door_2_ways_door_2w_frame.uasset'
+[2021.01.29-13.11.05:232][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_Custom/door_2_ways_door_2w_frame" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w_frame.uasset" SILENT=true
+[2021.01.29-13.11.05:241][460]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_frame9203BB524606D97544ACFCBBCB5FFFCA.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w_frame.uasset'
+[2021.01.29-13.11.05:256][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Assets_Custom/door_door_frame" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets_Custom/door_door_frame.uasset" SILENT=true
+[2021.01.29-13.11.05:268][460]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_door_frame0E3364D8403ED18E61C20BBB3FF7A44B.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets_Custom/door_door_frame.uasset'
+[2021.01.29-13.11.05:282][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Assets_Custom/door_door" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets_Custom/door_door.uasset" SILENT=true
+[2021.01.29-13.11.05:294][460]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_door78FB8054474335A3AC2C4E9E19A83859.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets_Custom/door_door.uasset'
+[2021.01.29-13.11.05:468][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.29-13.11.05:489][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.29-13.11.05:521][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.29-13.11.05:540][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.29-13.11.05:604][460]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.11.05:604][460]LogContentValidation: Display: Validating StaticMesh /Game/_Assets_Custom/door_2_ways_door_2w.door_2_ways_door_2w
+[2021.01.29-13.11.05:604][460]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets_Custom/door_2_ways_door_2w.door_2_ways_door_2w
+[2021.01.29-13.11.05:604][460]LogContentValidation: Display: Validating StaticMesh /Game/_Assets_Custom/door_2_ways_door_2w_frame.door_2_ways_door_2w_frame
+[2021.01.29-13.11.05:604][460]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets_Custom/door_2_ways_door_2w_frame.door_2_ways_door_2w_frame
+[2021.01.29-13.11.05:604][460]LogContentValidation: Display: Validating StaticMesh /Game/_Assets_Custom/door_door_frame.door_door_frame
+[2021.01.29-13.11.05:604][460]LogContentValidation: Display: Validating StaticMesh /Game/_Assets_Custom/door_door.door_door
+[2021.01.29-13.11.10:428][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint_C' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C:ReceiveTick' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:429][739]LogMetaData: Removing '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C' ref from Metadata '/Game/BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:435][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint_C' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C:ReceiveTick' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:436][739]LogMetaData: Removing '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C' ref from Metadata '/Game/BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.10:497][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_BP_Custom/door_2_ways_door_2w_Blueprint" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_BP_Custom/door_2_ways_door_2w_Blueprint.uasset" SILENT=true
+[2021.01.29-13.11.10:510][739]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_BlueprintF683B1A848D260C1E087E396C04F1F25.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_BP_Custom/door_2_ways_door_2w_Blueprint.uasset'
+[2021.01.29-13.11.10:512][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_BP_Custom/door_2W_Trigger_front_Blueprint" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_BP_Custom/door_2W_Trigger_front_Blueprint.uasset" SILENT=true
+[2021.01.29-13.11.10:519][739]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2W_Trigger_front_BlueprintA14E08B049EB972476A046A0637618D9.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_BP_Custom/door_2W_Trigger_front_Blueprint.uasset'
+[2021.01.29-13.11.10:698][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.29-13.11.10:719][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.29-13.11.10:747][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.29-13.11.10:768][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.29-13.11.10:824][739]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.11.10:824][739]LogContentValidation: Display: Validating Blueprint /Game/_BP_Custom/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint
+[2021.01.29-13.11.10:824][739]LogContentValidation: Display: Validating Blueprint /Game/_BP_Custom/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint
+[2021.01.29-13.11.16:280][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Sequences/door_trigger" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Sequences/door_trigger.uasset" SILENT=true
+[2021.01.29-13.11.16:285][ 64]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_trigger7E35ED504C18CF0E69C6DAA4F1516370.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Sequences/door_trigger.uasset'
+[2021.01.29-13.11.16:288][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence/door_trigger" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Sequence/door_trigger.uasset" SILENT=true
+[2021.01.29-13.11.16:298][ 64]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_triggerB6E0EC314433A14D35CAF88743C9EBBF.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Sequence/door_trigger.uasset'
+[2021.01.29-13.11.16:301][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Sequences/dor_trigger" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Sequences/dor_trigger.uasset" SILENT=true
+[2021.01.29-13.11.16:303][ 64]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/dor_trigger30A7822D45E836EF7F776594F5BE4010.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Sequences/dor_trigger.uasset'
+[2021.01.29-13.11.16:465][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.29-13.11.16:495][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.29-13.11.16:517][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.29-13.11.16:567][ 64]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.11.16:567][ 64]LogContentValidation: Display: Validating LevelSequence /Game/_Sequences/door_trigger.door_trigger
+[2021.01.29-13.11.16:567][ 64]LogContentValidation: Display: Validating ObjectRedirector /Game/Sequence/door_trigger.door_trigger
+[2021.01.29-13.11.16:567][ 64]LogContentValidation: Display: Validating ObjectRedirector /Game/_Sequences/dor_trigger.dor_trigger
+[2021.01.29-13.11.20:598][305]LogMetaData: Removing '/Game/_UI/widget_door_open.widget_door_open_C' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.widget_door_open:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.widget_door_open:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.widget_door_open:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.SKEL_widget_door_open_C:PreConstruct' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.SKEL_widget_door_open_C:Construct' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.SKEL_widget_door_open_C:Tick' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.SKEL_widget_door_open_C:Door_open_widget' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.SKEL_widget_door_open_C:Button_73' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.SKEL_widget_door_open_C' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.widget_door_open_C:Door_open_widget' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:599][305]LogMetaData: Removing '/Game/_UI/widget_door_open.widget_door_open_C:Button_73' ref from Metadata '/Game/UI/widget_door_open.PackageMetaData'
+[2021.01.29-13.11.20:631][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_UI/widget_door_open" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_UI/widget_door_open.uasset" SILENT=true
+[2021.01.29-13.11.20:639][305]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/widget_door_open6080B0664BD8F6C361870C853744B4CE.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_UI/widget_door_open.uasset'
+[2021.01.29-13.11.20:642][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/widget_door_open" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/UI/widget_door_open.uasset" SILENT=true
+[2021.01.29-13.11.20:653][305]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/widget_door_openC9911EE34977AE5B17833E87329938FA.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/UI/widget_door_open.uasset'
+[2021.01.29-13.11.20:723][305]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.11.20:723][305]LogContentValidation: Display: Validating WidgetBlueprint /Game/_UI/widget_door_open.widget_door_open
+[2021.01.29-13.11.20:723][305]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/widget_door_open.widget_door_open
+[2021.01.29-13.11.20:723][305]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/widget_door_open.Default__widget_door_open_C
+[2021.01.29-13.11.20:723][305]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/widget_door_open.widget_door_open_C
+[2021.01.29-13.11.31:845][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint_C' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:845][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:845][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:846][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:846][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C:ReceiveTick' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:846][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.SKEL_door_2_ways_door_2w_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:846][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:846][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:846][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:846][972]LogMetaData: Removing '/Game/_Blueprints/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_BP_Custom/door_2_ways_door_2w_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint_C' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C:ReceiveTick' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.SKEL_door_2W_Trigger_front_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:851][972]LogMetaData: Removing '/Game/_Blueprints/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_BP_Custom/door_2W_Trigger_front_Blueprint.PackageMetaData'
+[2021.01.29-13.11.31:913][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/door_2_ways_door_2w_Blueprint" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Blueprints/door_2_ways_door_2w_Blueprint.uasset" SILENT=true
+[2021.01.29-13.11.31:926][972]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_Blueprint0F9824CA42A1167B930A35BE7EF1CF6B.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Blueprints/door_2_ways_door_2w_Blueprint.uasset'
+[2021.01.29-13.11.31:935][972]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2W_Trigger_front_BlueprintE90616D14F53D47E6BAF27B5F9FD093D.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Blueprints/door_2W_Trigger_front_Blueprint.uasset'
+[2021.01.29-13.11.32:100][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.01.29-13.11.32:123][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.29-13.11.32:153][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.01.29-13.11.32:173][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.01.29-13.11.32:226][972]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.11.32:226][972]LogContentValidation: Display: Validating Blueprint /Game/_Blueprints/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint
+[2021.01.29-13.11.32:227][972]LogContentValidation: Display: Validating Blueprint /Game/_Blueprints/door_2W_Trigger_front_Blueprint.door_2W_Trigger_front_Blueprint
+[2021.01.29-13.11.37:479][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Assets/door_2_ways_door_2w" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets/door_2_ways_door_2w.uasset" SILENT=true
+[2021.01.29-13.11.37:491][280]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w1BD2144944F8BE391A8E8693A3E7EFA1.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets/door_2_ways_door_2w.uasset'
+[2021.01.29-13.11.37:506][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Assets/door_2_ways_door_2w_frame" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets/door_2_ways_door_2w_frame.uasset" SILENT=true
+[2021.01.29-13.11.37:517][280]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_frameA4D6549D4EA2B9E0A9FDE0A7A5EC9E08.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets/door_2_ways_door_2w_frame.uasset'
+[2021.01.29-13.11.37:532][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Assets/door_door_frame" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets/door_door_frame.uasset" SILENT=true
+[2021.01.29-13.11.37:544][280]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_door_frameEB3E461942A243156691B191AC618BF8.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets/door_door_frame.uasset'
+[2021.01.29-13.11.37:558][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Assets/door_door" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets/door_door.uasset" SILENT=true
+[2021.01.29-13.11.37:570][280]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_door49B4CDF04976FBBBC5DD6FB90F715902.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Assets/door_door.uasset'
+[2021.01.29-13.11.37:832][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.01.29-13.11.37:855][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.01.29-13.11.37:874][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.29-13.11.37:895][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.29-13.11.37:920][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.01.29-13.11.37:939][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.29-13.11.37:961][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_Custom/door_2_ways_door_2w" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w.uasset" SILENT=true
+[2021.01.29-13.11.37:971][280]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2wEC97AC1D471E836AFBF3F4B491D28B0C.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w.uasset'
+[2021.01.29-13.11.37:996][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/door_2_ways_door_2w_Blueprint" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Blueprints/door_2_ways_door_2w_Blueprint.uasset" SILENT=true
+[2021.01.29-13.11.38:017][280]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_Blueprint4A2C87B74428E3C75FB8CAA1AC65E3F0.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Blueprints/door_2_ways_door_2w_Blueprint.uasset'
+[2021.01.29-13.11.38:019][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets_Custom/door_2_ways_door_2w_frame" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w_frame.uasset" SILENT=true
+[2021.01.29-13.11.38:029][280]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_2_ways_door_2w_frame1CDA510F4C66D40325C23F8927383934.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/Assets_Custom/door_2_ways_door_2w_frame.uasset'
+[2021.01.29-13.11.38:103][280]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.11.38:103][280]LogContentValidation: Display: Validating StaticMesh /Game/_Assets/door_2_ways_door_2w.door_2_ways_door_2w
+[2021.01.29-13.11.38:103][280]LogContentValidation: Display: Validating StaticMesh /Game/_Assets/door_2_ways_door_2w_frame.door_2_ways_door_2w_frame
+[2021.01.29-13.11.38:103][280]LogContentValidation: Display: Validating StaticMesh /Game/_Assets/door_door_frame.door_door_frame
+[2021.01.29-13.11.38:103][280]LogContentValidation: Display: Validating StaticMesh /Game/_Assets/door_door.door_door
+[2021.01.29-13.11.38:103][280]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets_Custom/door_2_ways_door_2w.door_2_ways_door_2w
+[2021.01.29-13.11.38:103][280]LogContentValidation: Display: Validating Blueprint /Game/_Blueprints/door_2_ways_door_2w_Blueprint.door_2_ways_door_2w_Blueprint
+[2021.01.29-13.11.38:103][280]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets_Custom/door_2_ways_door_2w_frame.door_2_ways_door_2w_frame
+[2021.01.29-13.11.42:719][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.01.29-13.11.42:876][549]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/ThirdPersonExampleMap96BD60B24412486E8C807CA238FFC44F.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.29-13.11.42:981][549]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/ThirdPersonExampleMap_BuiltDataC5B5B9564E72794C3239B993ADE129CE.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.29-13.11.42:997][549]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-13.11.42:998][549]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.29-13.11.42:998][549]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.29-13.12.24:009][  5]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/_Sequences/door_trigger.door_trigger
+[2021.01.29-13.12.31:396][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Sequences/door_trigger" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Sequences/door_trigger.uasset" SILENT=true
+[2021.01.29-13.12.31:413][436]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_trigger71028FFC4C9F868E84661D8A971AE7D6.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Sequences/door_trigger.uasset'
+[2021.01.29-13.12.31:459][436]AssetCheck: New page: Asset Save: door_trigger
+[2021.01.29-13.12.31:459][436]LogContentValidation: Display: Validating LevelSequence /Game/_Sequences/door_trigger.door_trigger
+[2021.01.29-13.12.33:253][543]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.12.33:255][543]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.12.39:542][918]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/_Sequences/door_trigger.door_trigger
+[2021.01.29-13.12.42:644][ 95]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.12.42:646][ 95]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.12.44:874][228]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/_Sequences/door_trigger.door_trigger
+[2021.01.29-13.12.47:056][350]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.12.47:058][350]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.12.52:574][681]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/_Sequences/door_trigger.door_trigger
+[2021.01.29-13.13.04:045][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Sequences/door_trigger" FILE="../../../../../../Projects/02 - Misc/SolidRiver/Content/_Sequences/door_trigger.uasset" SILENT=true
+[2021.01.29-13.13.04:062][357]LogSavePackage: Moving '../../../../../../Projects/02 - Misc/SolidRiver/Saved/door_trigger4261794A4CDFC9DF573AEE9128E78372.tmp' to '../../../../../../Projects/02 - Misc/SolidRiver/Content/_Sequences/door_trigger.uasset'
+[2021.01.29-13.13.04:110][357]AssetCheck: New page: Asset Save: door_trigger
+[2021.01.29-13.13.04:110][357]LogContentValidation: Display: Validating LevelSequence /Game/_Sequences/door_trigger.door_trigger
+[2021.01.29-13.13.05:507][441]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.13.05:510][441]LogSlate: Window 'Sequencer' being destroyed
+[2021.01.29-13.13.08:366][614]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.29-13.13.08:374][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.29-13.13.08:375][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-13.13.08:375][614]PIE: New page: PIE session: ThirdPersonExampleMap (29 janv. 2021 à 15:13:08)
+[2021.01.29-13.13.08:376][614]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.29-13.13.08:377][614]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.29-13.13.08:377][614]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.29-13.13.08:391][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014624s)
+[2021.01.29-13.13.08:392][614]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.29-13.13.08:392][614]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2021.01.29-13.13.08:392][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016424s)
+[2021.01.29-13.13.08:419][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.01.29-13.13.08:422][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-13.13.08:422][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-13.13.08:422][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-13.13.08:422][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-13.13.08:422][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-13.13.08:422][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-13.13.08:422][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-13.13.08:422][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-13.13.08:423][614]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-13.13.08:423][614]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-13.13.08:466][614]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2021.01.29-13.13.08:466][614]LogAudioMixer: Display: Name: Haut-parleurs (USB AUDIO  CODEC)
+[2021.01.29-13.13.08:466][614]LogAudioMixer: Display: Is Default: Yes
+[2021.01.29-13.13.08:466][614]LogAudioMixer: Display: Sample Rate: 48000
+[2021.01.29-13.13.08:467][614]LogAudioMixer: Display: Channel Count Used: 2
+[2021.01.29-13.13.08:467][614]LogAudioMixer: Display: Device Channel Count: 2
+[2021.01.29-13.13.08:467][614]LogAudioMixer: Display: Channel Order:
+[2021.01.29-13.13.08:467][614]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-13.13.08:467][614]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-13.13.08:486][614]LogAudioMixer: Display: Using Audio Device Haut-parleurs (USB AUDIO  CODEC)
+[2021.01.29-13.13.08:487][614]LogInit: FAudioDevice initialized.
+[2021.01.29-13.13.08:541][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-13.13.08:547][614]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.29-13.13.08:551][614]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.29-14.13.08
+[2021.01.29-13.13.08:551][614]LogWorld: Bringing up level for play took: 0.003029
+[2021.01.29-13.13.08:552][614]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.01.29-13.13.08:556][614]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.29-13.13.08:559][614]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,347
+[2021.01.29-13.13.08:559][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.29-13.13.08:635][615]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-13.13.18:284][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.29-13.13.18:284][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.29-13.13.18:284][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.29-13.13.18:284][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-13.13.18:284][192]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.29-13.13.18:292][192]LogSlate: Window 'SolidRiver Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2021.01.29-13.13.18:307][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.29-13.13.18:307][192]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-13.13.18:307][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-13.13.18:314][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-13.13.18:314][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2021.01.29-13.13.18:318][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-13.13.18:339][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2021.01.29-13.13.18:345][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.01.29-13.13.18:389][196]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.01.29-13.13.48:639][490]LogSlate: Window 'Save Asset As' being destroyed
+[2021.01.29-13.13.48:690][490]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/_Sequences/door_trigger_back.door_trigger_back
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SyncInterval 0
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1066
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2021.01.29-13.13.48:871][491]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2021.01.29-13.13.48:872][491]LogRHI: Error: SwapChainDesc.OutputWindow 00000000011203EE
+[2021.01.29-13.13.48:872][491]LogRHI: Error: SwapChainDesc.Windowed true
+[2021.01.29-13.13.48:872][491]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2021.01.29-13.13.48:872][491]LogRHI: Error: SwapChainDesc.Flags 2050
+[2021.01.29-13.13.48:872][491]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:389 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2021.01.29-13.13.48:872][491]LogD3D11RHI: [Aftermath] GDynamicRHI=000001C938B340C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.01.29-13.13.48:872][491]LogWindows: Windows GetLastError: L’opération a réussi. (0)
